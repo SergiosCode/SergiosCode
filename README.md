@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergioscode&label=Profile%20views&color=00aaff&style=flat" alt="sergioscode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergioscode" alt="sergioscode" /></a> </p>
-
 - 🔭 I’m currently working on **multiple frontend projects**
 
 - 🌱 I’m currently learning **Java**
@@ -20,6 +18,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ce10UibZfPou6voWH8bDZ246C7ph_EC9/view?usp=sharing](https://drive.google.com/file/d/1Ce10UibZfPou6voWH8bDZ246C7ph_EC9/view?usp=sharing)
 
 - ⚡ Fun fact **I am able to create a home from making the blueprint to running building the complete home.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergioscode" alt="sergioscode" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
