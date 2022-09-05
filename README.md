@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Valencia</h1>
 <h3 align="center">A passionate Software Engineer from California</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergioscode&label=Profile%20views&color=00aaff&style=flat" alt="sergioscode" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sergioscode&label=Profile%20views&color=00aaff&style=flat" alt="sergioscode" /> </p>
 
 - 🔭 I’m currently working on **multiple frontend projects**
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am able to create a home from making the blueprint to running building the complete home.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergioscode" alt="sergioscode" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergioscode" alt="sergioscode" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
