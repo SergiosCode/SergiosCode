@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript and React**
 
-- 📫 How to reach me **sergioscode@gmail.com**
+- 📫 How to reach me: **sergioscode@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ce10UibZfPou6voWH8bDZ246C7ph_EC9/view?usp=sharing](https://drive.google.com/file/d/1Ce10UibZfPou6voWH8bDZ246C7ph_EC9/view?usp=sharing)
 
